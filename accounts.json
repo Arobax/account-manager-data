@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-23T15:43:21.394Z",
+  "updatedAt": "2026-09-23T15:44:59.145Z",
   "active": {
     "main": {
       "number": "000",
       "address": "daalamain000@proton.me"
     },
     "second": {
-      "number": null,
-      "address": null
+      "number": "001",
+      "address": "daalasecond001@proton.me"
     },
     "third": {
       "number": "000",
