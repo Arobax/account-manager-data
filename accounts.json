@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-18T01:33:23.724Z",
+  "updatedAt": "2026-11-11T16:52:56.183Z",
   "active": {
     "main": {
       "number": "000",
@@ -11,8 +11,8 @@
       "address": "daalasecond002@proton.me"
     },
     "third": {
-      "number": "000",
-      "address": "daalathird000@proton.me"
+      "number": null,
+      "address": null
     },
     "fourth": {
       "number": "000",
@@ -36,6 +36,13 @@
       "number": "001",
       "address": "daalasecond001@proton.me",
       "archivedAt": "2026-10-18T01:33:14.844Z",
+      "status": "obsolete"
+    },
+    {
+      "function": "third",
+      "number": "000",
+      "address": "daalathird000@proton.me",
+      "archivedAt": "2026-11-11T16:52:56.183Z",
       "status": "obsolete"
     }
   ]
